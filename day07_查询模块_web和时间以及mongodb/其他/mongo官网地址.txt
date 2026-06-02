@@ -1,0 +1,3 @@
+
+pymongodb: https://www.mongodb.com/zh-cn/docs/languages/python/pymongo-driver/current/crud/insert/
+索引： https://www.mongodb.com/zh-cn/docs/manual/indexes/
